@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.custom-nav-link {
+    color: #323f4b;
+    font-size: 20px;
+}
+
+.food-munch-logo {
+    height: 80px;
+    width: 70px;
+}
+
+#nav-item-1 {
+    color: #323f4b;
+    font-size: 20px;
+}
+
+#nav-item-2 {
+    color: #323f4b;
+    font-size: 20px;
+}
+
+#nav-item-3 {
+    color: #323f4b;
+    font-size: 20px;
+}
+
+#nav-item-4 {
+    color: #323f4b;
+    font-size: 20px;
+}
+
+.banner-section-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.banner-heading {
+    color: white;
+    font-family: "roboto";
+    font-weight: 300;
+    font-size: 45px;
+}
+
+.banner-caption {
+    font-weight: 300;
+    font-family: Roboto;
+    font-size: 24px;
+    color: #f5f7fa;
+}
+
+.custom-button {
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-color: #d0b200;
+    border-width: 0px;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.custom-outline-button {
+    width: 130px;
+    height: 45px;
+    color: #d0b200;
+    background-color: transparent;
+    border-color: #d0b200;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.wcu-section {
+    background-color: #f9fbfe;
+}
+
+.wcu-heading {
+    font-family: Roboto;
+    font-size: 28px;
+    color: #183b56;
+    font-weight: 700;
+}
+
+.wcu-section-discription {
+    font-family: Roboto;
+    font-size: 16px;
+    color: #5a7184;
+}
+
+.wcu-card {
+
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eafe;
+    border-radius: 16px;
+
+}
+
+.card-image {
+    height: 90px;
+    width: 87px;
+}
+
+.wcu-title {
+    font-family: "Roboto";
+    font-size: 22px;
+    color: #323f4b;
+    font-weight: 500;
+}
+
+.wcu-card-discription {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #7b8794;
+}
+
+.offers {
+    color: #323f4b;
+    font-style: italic;
+    font-weight: bold;
+}
